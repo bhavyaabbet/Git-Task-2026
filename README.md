@@ -1,6 +1,6 @@
 ## Git/Github Tasks
 
-AGV Introductory Tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1qB52Gc9wp9AnijAUdmTTTuANuoRfPfMC2oy5u0SS7iQ/edit?usp=sharing)
+AGV Introductory Tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1SA3oEYCuS8NRoyjZ1SI9gP7eZIXaP0zw11KbYqDuHo8/edit?tab=t.0#heading=h.535avltkzpqt)
 
 # Why Git?
 
