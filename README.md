@@ -41,6 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 ENTER NAMES HERE \
+Harshit Rana [harshit7744](http://github.com/harshit7744) \
 Aditya Roy [AdityaR17](http://github.com/AdityaR17) \
 Ayushman Sahoo [ayushman020908](https://github.com/ayushman020908) \
 Debanshu Das [DebanshuDas](https://github.com/DebanshuDas) \
