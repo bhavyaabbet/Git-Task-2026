@@ -41,6 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 ENTER NAMES HERE \
+Kanishkk Kingwani [Kanishkk-Kingwani](http://github.com/Kanishkk-Kingwani) \
 Vishwa Pandya [vishwa-pandya](https://github.com/vishwa-pandya) \
 Yatharth Singh [yatharthsing](http://github.com/yatharthsing) \
 Atreyi Pal Chowdhury [palchowdhuryatreyi06-collab](http://github.com/palchowdhuryatreyi06-collab) \
